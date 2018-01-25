@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PostageCalculator</string>
+    <string name="mail_type">Package Type</string>
+    <string name="calculate_text">Calculate!</string>
+    <string name="package_weight_hint">Weight of package in ounces (0-13)</string>
+    <string-array name="postage_array">
+        <item>(Selection)</item>
+        <item>Letter (Stamped)</item>
+        <item>Letter (Metered)</item>
+        <item>Large Envelope</item>
+        <item>Package</item>
+    </string-array>
+</resources>
